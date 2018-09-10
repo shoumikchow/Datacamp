@@ -7,3 +7,5 @@ Supervised Learning with scikit-learn: https://www.datacamp.com/courses/supervis
 Unsupervised Learning in Python: https://www.datacamp.com/courses/unsupervised-learning-in-python
 
 Deep Learning in Python: https://www.datacamp.com/courses/deep-learning-in-python
+
+A Network Analysis of Game of Thrones: https://www.datacamp.com/projects/76
